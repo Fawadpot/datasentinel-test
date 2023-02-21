@@ -1,0 +1,54 @@
+{
+  "ts": 1669976631540,
+  "u": "https://www.simulation.com/grycd/wwfx/gr?f9=56&var5=w#uhyx&",
+  "e": [
+      {
+          "et": "ur"
+      },
+      {
+          "et": "v",
+          "p": [
+              "event78",
+              "eVar99",
+              "prop9",
+              "eVar80",
+              "eVar37",
+              "event61"
+          ]
+      },
+      {
+          "et": "ur"
+      },
+      {
+          "et": "ur"
+      },
+      {
+          "et": "j",
+          "er": {
+              "m": "simulated error",
+              "s": "call stack",
+              "l": 16
+          }
+      },
+      {
+          "et": "dl",
+          "n": "_dl",
+          "u": {
+              "page_name": "store",
+              "store_id": 144
+          }
+      },
+      {
+          "et": "dl",
+          "n": "utag_data",
+          "u": {
+              "page_name": "product",
+              "product_id": "P1213",
+              "product_price": 73
+          }
+      },
+      {
+          "et": "ur"
+      }
+  ]
+}
